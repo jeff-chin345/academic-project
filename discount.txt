@@ -1,0 +1,2 @@
+pizza - 5%
+sandwich - 10%

@@ -1,0 +1,79 @@
+=== Restaurant Receipt ===
+Date: 23
+Customer: chin
+--------------------------
+Sandwich - RM 7.00
+Salads - RM 7.00
+Fried - RM 7.00
+--------------------------
+Subtotal: RM 21.00
+Total: RM 21.00
+==========================
+
+=== Restaurant Receipt ===
+Date: 54
+Customer: chin
+--------------------------
+Sandwich - RM 7.00 (-10% -> RM 6.30)
+Salads - RM 7.00
+Fried - RM 7.00
+--------------------------
+Subtotal: RM 21.00
+Discounts Applied: -RM 0.70
+Total: RM 20.30
+==========================
+
+=== Restaurant Receipt ===
+Date: 23
+Customer: chin
+--------------------------
+Sandwich - RM 7.00 (-10% -> RM 6.30)
+Salads - RM 7.00
+Fried - RM 7.00
+Pasta - RM 10.00
+--------------------------
+Subtotal: RM 31.00
+Discounts Applied: -RM 0.70
+Total: RM 30.30
+==========================
+
+=== Restaurant Receipt ===
+Date: 2025-06-20
+Customer: chin
+--------------------------
+Sandwich - RM 7.00
+Salads - RM 7.00
+Fried noodle - RM 7.00
+Pasta - RM 10.00
+--------------------------
+Subtotal: RM 31.00
+Total: RM 31.00
+==========================
+
+=== Restaurant Receipt ===
+Date: 2025-06-20
+Customer: chin
+--------------------------
+Sandwich - RM 7.00 (-10% -> RM 6.30)
+Salads - RM 7.00
+Fried noodle - RM 7.00
+Pasta - RM 10.00
+--------------------------
+Subtotal: RM 31.00
+Discounts Applied: -RM 0.70
+Total: RM 30.30
+==========================
+
+=== Restaurant Receipt ===
+Date: 2025-06-13
+Customer: chin
+--------------------------
+Sandwich - RM 7.00 (-10% -> RM 6.30)
+Salads - RM 7.00
+Fried noodle - RM 7.00
+--------------------------
+Subtotal: RM 21.00
+Discounts Applied: -RM 0.70
+Total: RM 20.30
+==========================
+

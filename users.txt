@@ -1,0 +1,6 @@
+chin,chin,chin,customer
+lim,lim,lim,manager
+kim,kim,kim,cashier
+bom,bom,bom,chef
+bye,bye,bye,customer
+hi,hi,hi,customer
