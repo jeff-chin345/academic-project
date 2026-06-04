@@ -1,2 +1,2 @@
-# academic-project
-these are the projects created from group assignment
+# Python
+this is the python assignment about restaurant ordering system.
